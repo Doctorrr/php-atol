@@ -40,3 +40,6 @@ https://online.atol.ru -- касса как сервис для интернет
     $Atol = new Atol;
     $Atol->getResponce( $uiid );
 ```
+
+## Документация
+[API](../blob/master/API%20сервиса%20АТОЛ%20Онлайн_v3.pdf)
