@@ -42,4 +42,4 @@ https://online.atol.ru -- касса как сервис для интернет
 ```
 
 ## Документация
-[API](../blob/master/API%20сервиса%20АТОЛ%20Онлайн_v3.pdf)
+[API](https://github.com/Doctorrr/php-atol/blob/master/API%20сервиса%20АТОЛ%20Онлайн_v3.pdf)
