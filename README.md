@@ -8,7 +8,7 @@ https://online.atol.ru -- касса как сервис для интернет
   
 В текущем проекте товары продаются по 1 штуке, так что для стандартного магазина надо дописывать метод createBill().
  
-Создать чек:
+## Создать чек:
 ```php
     $Atol = new Atol();
     
@@ -28,4 +28,15 @@ https://online.atol.ru -- касса как сервис для интернет
     ];
 
     $Atol->createBill( $test_bill );
+```
+
+## Обработка callback:
+```php
+    Atol::createCallback();
+```
+
+## Принудительно запросить статус обработки чека:
+```php
+ $Atol = new Atol;
+    $Atol->getResponce( $uiid );
 ```
