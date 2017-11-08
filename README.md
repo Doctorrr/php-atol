@@ -37,6 +37,6 @@ https://online.atol.ru -- касса как сервис для интернет
 
 ## Принудительно запросить статус обработки чека:
 ```php
- $Atol = new Atol;
+    $Atol = new Atol;
     $Atol->getResponce( $uiid );
 ```
