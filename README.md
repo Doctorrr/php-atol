@@ -30,7 +30,7 @@ https://online.atol.ru -- касса как сервис для интернет
     $Atol->createBill( $test_bill );
 ```
 
-
+## Создать чек:
 ![Результат](https://github.com/Doctorrr/php-atol/blob/master/photo_2017-11-09_19-24-37.jpg "Результат")
 
 ## Обработка callback:
